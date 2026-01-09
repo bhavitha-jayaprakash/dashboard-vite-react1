@@ -2,7 +2,7 @@
 
 A robust, feature-rich E-commerce Dashboard built with **React**, **TypeScript**, and **Material UI (MUI)**. This project demonstrates modern frontend architecture using **Zustand** for client state, **TanStack Query** for server state, and a component-driven design.
 
-## 🚀 How to Run
+##  How to Run
 
 1.  **Install Dependencies**:
     ```bash
@@ -19,7 +19,7 @@ A robust, feature-rich E-commerce Dashboard built with **React**, **TypeScript**
 
 ---
 
-## 🏗 Architecture & Tech Stack
+##  Architecture & Tech Stack
 
 ### Core Stack
 -   **Vite**: Blazing fast build tool and dev server.
@@ -40,7 +40,7 @@ A robust, feature-rich E-commerce Dashboard built with **React**, **TypeScript**
 
 ---
 
-## 🔄 The Pivot: Tailwind vs. MUI
+##  The Pivot: Tailwind vs. MUI
 
 **Why we switched to Material UI:**
 
@@ -56,7 +56,7 @@ We pivoted to **Material UI (MUI)**. This decision provided:
 
 ---
 
-## ✨ Completed Features
+##  Completed Features
 
 ### 1. Authentication
 -   Secure Login Page with Form Validation.
@@ -87,7 +87,7 @@ We pivoted to **Material UI (MUI)**. This decision provided:
 
 ---
 
-## ⚠️ Known Limitations
+##  Known Limitations
 
 -   **Data Persistence**: This project uses [DummyJSON](https://dummyjson.com) as a backend.
     -   **Important**: DummyJSON is a *read-only* API for mutations. While it returns a "success" response with the simulated new/updated object, **changes are not actually saved to their database**.
@@ -95,4 +95,4 @@ We pivoted to **Material UI (MUI)**. This decision provided:
 
 ---
 
-*Built by Antigravity*
+
