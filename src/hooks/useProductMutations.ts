@@ -1,6 +1,6 @@
 import { useMutation, useQueryClient } from '@tanstack/react-query';
 import api from '@/lib/axios';
-import { Product, ProductResponse } from '@/types/product';
+import { Product } from '@/types/product';
 import { ProductFormData } from '@/schemas/product';
 
 export const useAddProduct = () => {
