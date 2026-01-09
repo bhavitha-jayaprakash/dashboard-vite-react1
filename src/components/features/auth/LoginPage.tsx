@@ -70,7 +70,7 @@ export default function LoginPage() {
                 </Box>
 
                 <Alert severity="info" sx={{ fontSize: '0.875rem' }}>
-                    Use <strong>kminchelle</strong> / <strong>0lelplR</strong>
+                    Use <strong>emilys</strong> / <strong>emilyspass</strong>
                 </Alert>
 
                 {mutation.isError && (
